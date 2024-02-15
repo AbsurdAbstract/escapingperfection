@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Escaping Perfection</title>
-    <link>https://absurdabstract.github.io/escapingperfection/categories/</link>
+    <link>https://absurdabstract.github.io/escapingperfection.github.io/categories/</link>
     <description>Recent content in Categories on Escaping Perfection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://absurdabstract.github.io/escapingperfection/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://absurdabstract.github.io/escapingperfection.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
