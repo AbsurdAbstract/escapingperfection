@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Escaping Perfection</title>
-    <link>https://www.absurdabstract.xyz/</link>
+    <link>https://absurdabstract.escapingperfection.github.io/</link>
     <description>Recent content on Escaping Perfection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Feb 2024 14:56:41 -0500</lastBuildDate>
-    <atom:link href="https://www.absurdabstract.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 20:21:23 -0500</lastBuildDate>
+    <atom:link href="https://absurdabstract.escapingperfection.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning As We Go</title>
+      <link>https://absurdabstract.escapingperfection.github.io/post/learning/</link>
+      <pubDate>Thu, 15 Feb 2024 20:21:23 -0500</pubDate>
+      <guid>https://absurdabstract.escapingperfection.github.io/post/learning/</guid>
+      <description>It is a goal of mine to share some nugget of progress every day. I guess todays progress is the creation of this website itself. &amp;ldquo;Escaping Perfection.&amp;rdquo;&#xA;I hope you aren&amp;rsquo;t expecting anything of high quality on this page. I will go into further detail on my intended message later, but the pursuit of high quality goes against my beliefs. This site will soon be filled with convaluded link chains, horrible drawings, strange sounds, and mind twisting stories.</description>
+    </item>
     <item>
       <title>Sorry to nobody</title>
-      <link>https://www.absurdabstract.xyz/post/briefappology/</link>
+      <link>https://absurdabstract.escapingperfection.github.io/post/briefappology/</link>
       <pubDate>Thu, 15 Feb 2024 14:56:41 -0500</pubDate>
-      <guid>https://www.absurdabstract.xyz/post/briefappology/</guid>
+      <guid>https://absurdabstract.escapingperfection.github.io/post/briefappology/</guid>
       <description>It&amp;rsquo;s ironic that in the process of embarking on this journey, I almost seperated myself from its purpose. To you, the reader, there would&amp;rsquo;ve been no difference whether I made this post or held off posting this site for another day. However, holding off the sharing of thoughts is the very thing that goes against this sites fundamental philosophy. Waiting. Hesitating. Perfecting&amp;hellip;&#xA;I will go into further detail when I have more time to formulate my thoughts.</description>
     </item>
   </channel>
