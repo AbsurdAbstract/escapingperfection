@@ -6,20 +6,34 @@
     <description>Recent content in Tags on Escaping Perfection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Feb 2024 05:45:09 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 22:39:08 -0500</lastBuildDate>
     <atom:link href="https://absurdabstract.escapingperfection.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Viewers</title>
-      <link>https://absurdabstract.escapingperfection.github.io/tags/new-viewers/</link>
-      <pubDate>Sat, 17 Feb 2024 05:45:09 -0500</pubDate>
-      <guid>https://absurdabstract.escapingperfection.github.io/tags/new-viewers/</guid>
+      <title>games</title>
+      <link>https://absurdabstract.escapingperfection.github.io/tags/games/</link>
+      <pubDate>Sun, 03 Mar 2024 22:39:08 -0500</pubDate>
+      <guid>https://absurdabstract.escapingperfection.github.io/tags/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>music</title>
+      <link>https://absurdabstract.escapingperfection.github.io/tags/music/</link>
+      <pubDate>Sun, 03 Mar 2024 22:39:08 -0500</pubDate>
+      <guid>https://absurdabstract.escapingperfection.github.io/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>thoughts</title>
       <link>https://absurdabstract.escapingperfection.github.io/tags/thoughts/</link>
-      <pubDate>Thu, 15 Feb 2024 20:21:23 -0500</pubDate>
+      <pubDate>Sat, 02 Mar 2024 01:06:19 -0500</pubDate>
       <guid>https://absurdabstract.escapingperfection.github.io/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Viewers</title>
+      <link>https://absurdabstract.escapingperfection.github.io/tags/new-viewers/</link>
+      <pubDate>Sat, 17 Feb 2024 05:45:09 -0500</pubDate>
+      <guid>https://absurdabstract.escapingperfection.github.io/tags/new-viewers/</guid>
       <description></description>
     </item>
   </channel>
